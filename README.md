@@ -4,6 +4,16 @@ A simplistic clean and minimal theme for rEFInd
 
 NOTE: this is a fork of munlik's theme since he seems to have abandoned his project, he didn't answer to (my) PRs on github for years.
 
+NOTE2: This is a fork of bobaftetthotmail's fork adjusted to my needs.
+
+WARNING: If haven't installed reFind or you are just trying to fix a messed boot order, try these first:
+
+ ```
+ sudo apt-add-repository ppa:rodsmith/refind && sudo apt-get update && sudo apt install refind
+ 
+ sudo refind-mkdefault
+ ```
+
  **press F10 to take screenshot**
  
 (default settings)
