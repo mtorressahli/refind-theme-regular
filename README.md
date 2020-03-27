@@ -55,7 +55,7 @@ NOTE: this is a fork of munlik's theme since he seems to have abandoned his proj
 
 5. To enable the theme add `include refind-theme-regular/theme.conf` at the end of `refind.conf`, and comment out or delete any other themes you might have installed.
    ```
-   sudo vi /boot/efi/EFI/refind/refind.conf
+   sudo subl /boot/efi/EFI/refind/refind.conf
 
    ```
 
